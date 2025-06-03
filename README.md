@@ -1,3 +1,5 @@
+New text modified
+
 # moje-pierwsze-repo
 ## test
 - test1
