@@ -1,3 +1,4 @@
+Adding a change
 New text modified
 
 # moje-pierwsze-repo
